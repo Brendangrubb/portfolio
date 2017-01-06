@@ -10,7 +10,7 @@ _I have created a landing website for my computer programming portfolio. It will
 
 ## Setup
 
-* _For now, all you have to do is to checkout my [GH Pages]() site to see the page.
+* _For now, all you have to do is to checkout my [GH Pages](brendangrubb.github.io/portfolio) site to see the page._
 * _Feel free to poke around this repository and check out my commits and branches._
 
 ## Known Bugs
@@ -19,14 +19,14 @@ _None so far but if you notice an issue please let me know._
 
 ## Support and Contact details
 
-_You can contact Brendan at [brendangrubb@gmail.com](mailto:brendangrubb@gmail.com)_
+_You can contact Brendan at [brendangrubb@gmail.com](mailto:brendangrubb@gmail.com)._
 
 ## Languages Used
 
 _I used HTML and CSS with Bootstrap to make the page and Markdown to make this README._
 
-### License 
+### License
 
 Copyright (c) 2016 **_Brendan Grubb_**
 
-*This website is licensed under the GPL license.
+*This website is licensed under the GPL license.*
