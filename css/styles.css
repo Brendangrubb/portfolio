@@ -2,19 +2,27 @@ h1 {
   font-weight: bold;
 }
 
+.background {
+  font-family: serif;
+}
+
 .about-me {
   float: left;
-
+  font-size: 135%;
 }
 
 .projects {
-  float: right;
+  font-size: 135%;
 }
 
 .interests {
-  float: left;
+  font-size: 140%;
 }
 
-.bold {
+.cities {
   font-weight: bold;
+}
+
+.medfnt {
+  font-size: 110%
 }
