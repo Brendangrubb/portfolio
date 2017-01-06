@@ -14,23 +14,29 @@ body {
   transform: rotate(90deg);
   margin-top: -3%
 }
-.about-me {
-
-  font-size: 135%;
-}
-
-.projects {
-  font-size: 135%;
-}
 
 .interests {
+  padding: 10px;
+  margin-left: 15px;
   font-size: 140%;
-}
-
-.cities {
-  font-weight: bold;
 }
 
 .medfnt {
   font-size: 110%
+}
+
+.about-me {
+  float: right;
+  padding: 10px;
+  margin-right: 15px;
+  font-size: 135%;
+}
+
+.projects {
+  padding: 10px;
+  font-size: 135%;
+}
+
+.cities {
+  font-weight: bold;
 }
