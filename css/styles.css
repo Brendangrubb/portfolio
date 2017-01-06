@@ -2,12 +2,20 @@ h1 {
   font-weight: bold;
 }
 
-.background {
+body {
   font-family: serif;
+  background-image: url(../img/wallpaper.jpg);
+  background-color: #ffffe6;
 }
 
+.pizza {
+  width: 24%;
+  float: right;
+  transform: rotate(90deg);
+  margin-top: -3%
+}
 .about-me {
-  float: left;
+
   font-size: 135%;
 }
 
