@@ -3,13 +3,18 @@ h1 {
 }
 
 .about-me {
+  float: left;
 
 }
 
 .projects {
-
+  float: right;
 }
 
 .interests {
+  float: left;
+}
 
+.bold {
+  font-weight: bold;
 }
