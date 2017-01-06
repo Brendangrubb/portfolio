@@ -29,4 +29,4 @@ _I used HTML and CSS with Bootstrap to make the page and Markdown to make this R
 
 Copyright (c) 2016 **_Brendan Grubb_**
 
-*This website is licensed under the GPL license.*
+*This website is licensed under the GPL license*
