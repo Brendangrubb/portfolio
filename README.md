@@ -10,7 +10,7 @@ _I have created a landing website for my computer programming portfolio. It will
 
 ## Setup
 
-* _For now, all you have to do is to checkout my [GH Pages](brendangrubb.github.io/portfolio) site to see the page._
+* _For now, all you have to do is to checkout my [GH Pages](brendangrubb.github.io/portfolio/) site to see the page._
 * _Feel free to poke around this repository and check out my commits and branches._
 
 ## Known Bugs
