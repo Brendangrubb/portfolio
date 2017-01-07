@@ -11,6 +11,7 @@ body {
 .jumbotron {
   opacity: .85;
 }
+
 .pizza {
   width: 24%;
   float: right;
@@ -47,8 +48,9 @@ body {
   font-weight: bold;
 }
 
-img.row {
-  margin: 5px
+.marg {
+  display: block;
+  margin: auto;
 }
 
 .opaque {
@@ -57,11 +59,15 @@ img.row {
 
 .back {
   background-color: white;
-  opacity: .7;
+  opacity: .75;
   padding: 5px;
-  margin: 15px;
+  margin-top: 15px;
+  text-align: center;
   font-size: 25px;
   font-family: sans-serif;
-  align-items: center;
+}
 
+#picmarg {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
